@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: despre-noi
 title: Despre Noi
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/12f1928f-c303-45a2-9d60-624f6364ce3b/'
 subtitle: Asociatia Accipiter
 section1: >-
   ## Asociatia Accipiter
@@ -57,7 +57,7 @@ section1: >-
   umana o simte ca e un sentiment extraordinar de bucurie, e ca o amintire ce
   revine cu putere si dupa care sufletul a tinjit mereu fara a-si da seama.
 section2: |-
-  ## You can use videos, images and text.
+  ## Asociatia Accipiter
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
