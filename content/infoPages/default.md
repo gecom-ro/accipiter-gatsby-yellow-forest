@@ -17,11 +17,11 @@ Cod de identificare fiscală CIF: 25938711
 
 Puteţi preciza către ce proiect aţi dori să fie folosiţi banii dumenavoastră:
 
-1. Centru rebilitare pentru rapitoare
-2. Cercetare stiintifica
+1. Centru reabilitare pentru rapitoare;
+2. Cercetare stiintifica;
 3. Medicina specifica.
 
-Va garantăm transparenţă şi în funcţie de dorinţa voastră putem face public date despre donator.
+Va garantăm transparenţa şi, în funcţie de dorinţa voastră, putem face public date despre donator.
 
 #### Redirecționare 2%
 
