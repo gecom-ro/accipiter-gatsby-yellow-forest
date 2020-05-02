@@ -10,9 +10,12 @@ excerpt: >-
   domnul Alexandru Filipascu in anul 1966 , am sa redau in acest sens extrase
   din aceasta lucrare , cu titlul “ Vinatoare cu pasari rapitoare “ – Un
   interesant capitol din istoria vinatorii in tara noastra.
+categories:
+  - category: News
 meta:
-  description: test meta description
-  title: test meta title
+  canonicalLink: ''
+  description: Istoria Soimaritului
+  title: Istoria Soimaritului
 ---
 ## Scurta istorie a soimaritului din Tarile romanesti
 
@@ -114,6 +117,185 @@ Tot pentru merite deosebite de soimari vestiti a fost inobilata si familia Boer 
 
 Extras din : Istoria vinatorii in Romania / de Ion Nania
 
-```
-hr
-```
+## `hr`\
+1794 / Muntii Bucegi / Valea Cerbului
+
+In cei dintii ani ai sederii mele in Valea Cerbului vatasii plaiului Prahova nu avura cunostinta de fiinta mea . Dar si daca de la un timp nu putui sa ma mai strecor neluat in seama , vatasii nu ma suparara nici intr-un chip ; mai intii ca n-ar fi indraznit sa necajeasca “ un sudit francez “ si apoi eram un om de pret fata de ei, caci luasem o insarcinare foarte insemnata . Face sa o povestesc aici :
+
+In fiecare an , Sublima Poarta primea de la cele doua tari romane , afara de haraciul cu ale lui dichisuri , si un numar de soimi , de care marele cap al vinatorilor Padisahului avea trebuinta . La fiecare sosire a verii , vatasii plaiurilor faceau venin de moarte , pentru ca erau indatorati de Voda sa predea citeva din pasarile acestea de prada , sub amenintarea ca li se trimite “ mumbasir cu greu treapad “ , de nu sint urmatori poruncii .
+
+Plaiul Prahovei trebuia sa dea doi soimi. Ce-mi veni intr-un rind ? Prinsesem de vii doua soimoaice frumoase ; le dusei la Cimpina vatafului plaiului nostru . sa-i fi dus comorile lui Iov nu ma primea mai bine ; nenorocitul de slujbas tocmai se batea cu capul de pereti , caci potecasii pe care ii insarcinase cu prinderea soimilor se intorsesera cu miinile goale .
+
+Din ziua acea , am fost „ soimarul „ curtii otomane in plaiul Prahova . In chipul acesta eu mi-am platit birurile .
+
+Nu e vorba , mi-ar fi dat de furca „ negustoria „ asta daca  , in copilaria mea , n-as fi cunoscut , in Vosgi , un „ fauconnier „ de mina intiia , care ma invata mestesugul lui .
+
+Prindeam soimuletii in cuib , dupa ce cercetasem , din iarna , locurile unde soimoaicele cloceau , totdeauna pitulate in scorburi de pereti prapastiosi ; sa ma fi vazut cum ma cataram pina la ei , cu indeminare si fara ameteala …
+
+Mestesugul acesta periculos imi era placut , ca nu degeaba aveam o fire zvinturateca .
+
+Extras din : VRAJA BUCEGILOR  de Nestor Urechia
+
+**Ginduri despre soimarit,**
+
+De-a lungul timpului, soimaritul a fost vazut ca o activitate relationata cu regii, liderii si persoanele de inalt rang. Este activitatea cea mai inalta intre tipurile de vinatoare, pentru ca este cea mai dificila si are deci un ¨ reto ¨ mai mare.
+
+Soimaritul te invata ce este umilinta, iti calmeaza spiritul si proportioneaza soimarului sentimentul de unificare cu natura.
+
+Soimul este un animal solitar, nu este sociabil. Nu are instinctul de a se supune unui ¨ sef ¨ , de a urmari normele unei societati. Nu  poate fi pedepsit, la fel cum nu  i se poate da comanda sa se supuna; dar i se poate Cere si poate fi  Recompensat.Regii si persoanele de inalt rang, trateaza celelalte persoane in egala masura, si chiar in aceste conditii se pun in genunchi in fata unui soim. Pentru o persoana obisnuita ca toti ceilalti sa i se supuna, este o lectie de umilinta. Oameni sai, caii sai, servitorii sai… o sa se supuna comenzilor lui, dar pentru un soim, acel rege
+
+nu este mai mult decit un simplu coleg de vinatoare.
+
+Dar ce se intampla cu soimarul? Cu o vedere mai proasta, lent si incapabil sa zboare… pentru soim, este mai mult un obstacol decit un ajutor in vinatoare.
+
+Trebuie sa foloseasca masina si sistemele de radiolocalizare pentru a fi capabil sa tina pasul si sa gaseasca uneori soimul. Nervii de la baza penelor, permit soimului sa simta aerul cu sensibilitatea degetelor unui pianist. Lumea lui este formata din vint, gravitatie si…. viteza. Uitandu-se in jos, vede soimarul pe sol, lent si legat de lumea lui sociala… un simplu fir deincredere insa  tine soimul pentru a nu scapa pe vinturi, in cautarea prazii lui…. singur.
+
+Deci, fiind un incapacitat vinator in comparatie cu soimul, acel soimar trebuie sa invete sa fie puternic. Cand se trezeste dimineata, trebuie sa se gindeasca in primul rind la soim, si apoi la alte lucruri. In vinatoare, trebuie sa fie pregatit sa suporte dure probe fizice, atit pentru a gasi prada pentru soimul sau, urmarindu-i puternicul zbor, cat si ajutandu-l cand lucrurile merg prost si cautandu-l atunci cand se pierde.
+
+De multe ori corpul  o sa il doara din cauza oboselii… dar spiritul lui o sa fie undeva sus intre nori, planand cu soimul dus de vint, dorind ca acesta sa aiba succes in vinatoare.
+
+Intr-un moment… poate aparea la orizont o acvila, si emotiile soimarului se transforma in nebunie si disperare. Uitand de oboseala, o sa dea totul de la el ca sa salveze soimul. Daca totul merge bine, o sa termine ziua fericit, cu soimul inapoi in casa pe suport langa el, si cu gusa plina. Dar daca insa ramane acolo afara pierdut in intuneric, singur, nu se poate gindi la alt lucru. Nu isi da seama de ce nu mananca…
+
+nu poate dormi…
+
+Inima lui va ramane acolo afara cu soimul. Unde este? Este in siguranta? Ce poate sa faca sa il  gaseasca?
+
+Aceasta este diferenta intre un soimar si un om cu pusca. La sfirsitul zilei, pusca se curata si se pune deoparte, este doar o unelta. Soimarul insa niciodata nu va pune deoparte soimul lui-mereu o sa il aiba in minte.
+
+Cum a spus nu de mult, seicul  Mohamed Bin Zayed Al Nayhan:
+
+¨ Valoram soimii nostrii sacrii, la fel cum ne valoram proprii nostrii copii ¨ .
+
+Cand soimarul isi zboara soimul, o parte din inima lui o sa zboare cu el. Cand o face bine, inima aproape ii explodeaza de bucurie. Cand o face rau, este retras si trist. Dar trebuie sa invete sa nu o arate, sa isi suporte tristetea fara a o imparti cu altii. Chiar daca soimul o sa se joace cu emotiile lui, chiar daca corpul lui ajunge la limita, invata sa accepte totul cu recunostinta. Daca nu este pregatit pentru a o face, daca nu este pregatit pentru
+
+bine si rau, nu ar trebui niciodata sa incerce acel soim. Ar fi trebuit sa stea in casa.
+
+Cand isi scoate soimul si il elibereaza, nu stie ce destin il asteapta. Dar o sa fie pregatit!
+
+S-a  pregatit inainte, cat de bine a  putut, si  e gata sa infrunte destinul.
+
+E pregatit pentru a infrunta viata!
+
+Un soimar intelept, poate sa simta spiritul soimului ca pe o aura. Spiritul unui caine sau a unui cal, este diferit- sunt animale sociabile si le place compania. Spiritul unui soim este independent, sigur pe sine si mai puternic decat al omului.
+
+Un contact zilnic cu un astfel de spirit, ne inspira, ne face mai puternici, urmandu-i exemplul.
+
+Si pentru ce admiram atit de mult soimul?
+
+Poate sa se sperie de tine, poate sa se supere , poate sa se bucure cand te vede.
+
+Nu o sa te minta, chiar daca niciodata nu il intelegi.
+
+Nu isi plange de mila, si inclusiv cand este pe moarte din cauza unei boli sau accident, spiritul lui ramane intact.
+
+Este un privilegiu sa traiesti in prezenta unui astfel de spirit,  invatind ce este puterea , invatind de la el.
+
+Un om intelept, invata sa asculte cand nu sunt cuvinte. Cum o face?
+
+Invata de la soimul lui, care
+
+comunica cu semne usoare si discrete, si nu cu vorbe. Semnele sunt adevarul. Soimarul invata sa judece.
+
+De multe ori, in vinatoare, soimarul gaseste un loc care pare sa fie perfect. Un teren foarte deschis,
+
+prada in locul cel mai perfect, buna directie a vintului… Totul perfect, cu exceptia unui tufis in mijlocul campului.
+
+Acest simplu tufis, este suficient pentru a schimba complet cursul zborului. In loc ca prada sa incerce sa castige soimul intr-o lupta aeriana, o sa faca un efort extraordinar pentru a
+
+ajunge la acel tufis. Misiunea soimarului este de a cunoaste terenul.
+
+Trebuie sa stie ca acolo este un tufis, si trebuie sa fie pregatit pentru aceasta situatie. Ar putea poate sa dirijeze prada in
+
+alta directie, departe de acel tufis, si asa sa primeasca zborul care il astepta…
+
+Sau poate sa aleaga un alt soim, capabil sa prinda prada in interiorul acelui tufis… Trebuie sa judece bine si sa
+
+tina cont de riscuri. Este un judecator. O strategie poate sa para perfecta, dar un bun strateg o sa vada acel mic tufis si o sa evalueze riscurile, exact cum o face de cite ori iese cu soimul.
+
+La fel un soim ne invata despre importanta timpului si a orarului. Cand antrenam un soim, facem planurile
+
+pentru iesirea pe un cimp departat, cateva saptamani inainte, asigurand cu mare grija ca in momentul
+
+in care vine acea zi, totul sa fie perfect pregatit. Soimul trebuie sa fie puternic si sanatos.
+
+Nu sunt masini de ucis; daca ceva nu merge bine, nu poti chema mecanicul sa repare.
+
+Si iesind la vinatoare reala, o sa treci prin situatii in care doar 2 secunde fac diferenta intre succes si ratare… Doar cateva secunde in care nu scoti scufia la timp, o sa ii dea prazii un mare avantaj, indepartindu-se.
+
+Asa invata soimarul sa manuiasca timpul ca si cum ar fi o entitate fizica. Poate sa-l vada ca distanta… poate sa il atinga ca pe mancare… Dar in schimb, este un factor important si de control. Un soim care acuma zboara lent si stingaci, poate sa zboare ca o sageata doua ore mai tirziu… In politica si in viata de zi cu zi,
+
+timpul si orarele sunt vitale.
+
+Un bun soimar, nu se masoara dupa soimii lui buni, ci dupa soimii lui rai. Nu este atit de dificil sa ai una sau
+
+doua pasari de prima clasa, dar nu este deloc usor sa ai o echipa completa de soimi buni. Daca ai insa unul
+
+sau doi buni, se zboara primii, se fac din ce in ce mai buni, si poate pentru ca lucrezi mult cu ei pot sa
+
+se intample accidente si dezastre. Daca li se intampla ceva, soimarul ramane cu o echipa foarte stingace si incapabila.
+
+Dar daca insa antreneaza si zboara bine si ceilalti soimi, poate sa lucreze sigur pe sine, si daca din oarecari cauze nu poate sa zboare unul dintre ei, o sa stea linistit pentru ca acolo sunt restul. Exact aceeasi chestie apare si in viata de zi cu zi. In cea mai buna echipa, toti membrii sunt eficienti si de incredere, si nu doar 1 sau 2 persoane care duc in spate toata echipa.
+
+Toti cauta distractia. Dar trebuie sa se echilibreze cu necesitatile fiecarei persoane. Cand suntem tineri, „ne jucam gitul”. Cand imbatranim si corpul incepe sa ne lase, pretuim mai mult propria noastra sanatate si conditie fizica, motiv pentru care ne dedicam mai mult la ¨ riscurile ¨ si jocurile mentale.
+
+Un om de afaceri, se distreaza luand decizii asupra marilor afaceri- Soimaritul, este un amestec de duritate fizica si risc. Este o rezerva spirituala atit de profunda, ca niciodata nu ajunge la final. Persoanele care vad soimaritul din afara, cred ca este vorba doar de a ucide ceva, folosind un animal contra altui animal. Dar nu este asa. Prazile pe care soimarul le vineaza,
+
+sunt o placere, ba mai mult, un privilegiu. Si asta, dupa cum toti stiu, o ofera mereu prada cea mai dificila si inteligenta. Placerea nu se poate cumpara, nici impacheta, si nici nu se poate pastra.
+
+De multe ori, nici nu iti dai seama bine ca este acolo, ca ea a si  disparut. Vine in toate formele si marimile; o usurinta mare, o vedere rapida, o agitare. Soimarul isi da seama si stie ca trebuie sa aiba toate aceste ingrediente pentru a functiona. Pentru asta, soimarii sunt primii care lupta pentru conservarea populatiei de rapitoare salbatice, a prazilor si a terenurilor de vinatoare.
+
+Altfel… ce folos are cel mai pretios si puternic soim, daca nu ai teren si prada pentru a-si masura puterile cu aceasta???
+
+Da, soimarul vrea sa vineze prazi, pentru ca soimaritul este un sport de vinatoare, relationat cu viata si moartea.
+
+Dar vrea sa o faca, urmarind sa foloseasca toate ingredientele naturale.
+
+Prada nu are o scapare naturala in fata unui glont. Gloantele au o viteza mult prea mare pentru ca prada sa poata reactiona. Asa ca zboara catre inalt, primesc o lovitura si cad in iarba.
+
+Cu un soim este diferit. Milioane de ani de evolutie si o viata intreaga de experienta, au invatat prada cum sa se fereasca de pradatorii naturali. Unele prazi zboara
+
+foarte inalt, altele in rasul solului. Unele se tirasc pe sol si se ascund. Altele dispar intr-o vizuina. Unele ataca propriul soim… altele pur si simplu sunt mult prea rapide pentru un soim… Cel puternic, are mai multe posibilitati de a supravietuii,
+
+decit cel slab. Nici una nu o sa scape ranita, pentru a muri mai tirziu in acest tip de vinatoare. Soimarul astfel, vede modul natural. Stie cum fiecare specie are diferite tactici de a scapa. Isi creaza propria strategie, tinand cont de acest lucru.
+
+Si isi respecta prazile in mod deosebit, fara sa le vada ca o tinta pentru pusca lui, ci vazandu-le ca un rival puternic pentru soimul lui.
+
+O persoana care nu are contact cu animalele, este la fel ca o persoana care a trait toata viata in acelasi sat, tratand cu indiferenta lumea exterioara. Omul care intra doar in contact cu animalele prin intermediul televizorului si a gradinii zoologice, este ca un turist intr-o tara straina, care niciodata nu vorbeste cu ¨ nativii ¨.
+
+Cand lumea spune ¨animalele trebuie lasate in natura ¨ vor sa spuna in realitate ¨ ca sunt separate de noi, pentru ca noi suntem o lume diferita ¨ .
+
+Soimaritul este o confruntare intre om si natura, o oportunitate de a te contopi cu natura si a fi mai mult decit un simplu observator. Nu te limitezi doar a privi pe geam: esti chiar acolo afara in mijlocul petrecerii.
+
+Cand intelegi acest lucru, fie ca iti place fie ca nu iti place, ca suntem toti impreuna in aceasta chestie: oameni, animale si plante, lasati pe planeta, toti depindem unu de altul, o sa te faci mai putin arogant si mai putin increzator in abilitatea
+
+omului de a controla tot ce are in jur. Inca nu am inceput sa intelegem cum trebuie, complicatele sisteme naturale. Nici macar nu putem sa prezicem timpul sau cutremurele. Utilizam resurse limitate.
+
+Toate aceste lucruri, le cunoastem sub numele de
+
+¨ PROGRES ¨…. dar in realitate fugim prin intuneric si din ce in ce mai rapid. Poate ca acceleram pe marginea unei prapastii… pe cand am putea sa simtim linistiti cum pasim lent si cu grija.
+
+Soimaritul este un mod prin care ajungem sa simtim propriul nostru drum, si sa  intelegem complicatele sisteme a vietii de care depindem si din care facem parte, si pentru a ne pregati si antrena pentru viata.
+
+Autor necunoscut .
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Ginduri despre etica soimaritului ,
+
+in exercitarea Soimaritului , soimarii trebuie sa respecte aceleasi legi vinatoresti  ca si vinatorii cu arma , in afara acestor legi , soimaritul cunoaste si legi proprii , fundamentale de etica soimareasca , rezultate in urma interactiunii dintre om si pasarea de prada .
+
+In toate actiunile soimaresti , bunastarea pasarii de prada trebuie sa stea intotdeauna in centrul atentiei soimarului ! acest fapt trebuie avut in vedere in toate actiunile soimaresti in derulare ! Interesul prioritar al soimarului este ca pasarea lui de prada sa fie perfect sanatoasa si intr-o conditie fizica optima ! Toate actiunile soimaresti care nu satisfac aceasta conditie fundamentala ca de exemplu : infometarea , suprasolicitarea la vinatoare sau un mamagement neadecvat al pasariii de prada in cauza nu sint compatibile cu etica soimaritului !
+
+Respect fata de creatura este una din cele mai inalte maxime a soimaritului ; respect in fata pasarii de prada dresate precum si in fata vinatului care urmeaza sa fie vinat etc . Soimaritul nu este un sport , nu este un concurs , la care sa simtim placere . Soimarul simte insa satisfactie in exercitarea acestei pasiuni , care este dusa la indeplinire in liniste in mijlocul naturii . Soimaritul are mult de a face cu cautarea armoniei si a perfectiunii interioare , chiar daca nu are nimic de ascuns , soimaritul nu cauta sa se afiseze in public .
+
+Telul soimaritului este o interactiune armonica intre soimar , pasare de prada si ciine de vinatoare . In exercitarea soimaritului , soimarul incearca sa fie parte din comportamentul natural de vinatoare a pasarii de prada . Aici deranjeaza strigate puternice , nervii precum si strigatele de multumire . Natura nu cunoaste bucurie la vinatoare , in schimb cunoaste satisfactia , natura nu cunoaste crizele de nervi dar in schimb cunoaste dezamagirea si smerenia . Daca soimarul vrea sa fie parte a naturii trebuie sa tina neaparat seama de aceste principii de baza .
+
+Fiecare soimar , la fiecare aparitie in revier sau in public are o raspundere in fata soimaritului in sine . Propriul interes si egoismul ocupind un rol secundar in fata binelui comunitatii , acest lucru fiind valabil atit in timpul vinatorii , cit si la respetarea perioadelor de protectie a vinatului etc . Numai printr-o vointa ancestrala de a nu aduce prejudicii naturii poate supravietui soimaritul in conditiile unei lumi care se distanteaza tot mai mult de aceasta .
+
+A nu aduce prejudicii naturii – acest aspect este parte din managementul pasarii de prada. Soimaritul modern nu mai are nimic comun cu infometarea , sau ruperea vointei unei pasari de prada ! La fel nu este scuzabila suprasolicitarea unei pasari de prada la vinatoare . In soimaritul German numarul de prazi / zi / pasare de prada , se limiteaza inca de la inceputurile soimaritului modern , din anul 1920 , la patru prazi . Nu exista nici un motiv pentru ca acest numar de prazi / zi / pasare de prada sa fie depasit , acest fapt denotind deja lacomia . Fiecare piesa de vinat in plus peste aceasta cota zilnica denotind in acelasi timp  lipsa de respect in fata creaturii , a maximelor soimaritului . O vinatoare reusita nu este oglindita prin numarul de piese vinate , ci din contra : un soimar bun se controleaza , stie sa-si controleze simturile ancestrale , si incearca ca la urmatoarea iesire la vinatoare sa-si imbunatateasca si  sa-si perfectioneze stilul vinatorii ! Precum bine a spus si imparatul Friedrich II : soimarul sa nu-si caute implinirea in numarul prazilor , ci in dresajul pasarii , care sa prinda prada cu stil ! Aceasta Dogma este valabila si in ziua de astazi pentru toti soimarii sau viitorii soimari !
+
+Altfel decit vinatorul cu arma , un soimar vineaza de obicei in mai multe reviere de vinatoare , este deci parte din etica soimaritului sa nu se vineze in reviere de vinatoare in care vineaza déjà un alt soimar – spiritul de camaradenie  trebuie sa fie mai important decit propriul interes !
+
+Conditia pentru existenta soimaritului este tinerea de pasari de prada . Totusi nu toate pasarile de prada ajunse in mina omului sint folosite in soimarit . Ideal insa ar fi ca fiecare din aceste pasari sa fie folosite numai pentru practicarea soimaritului sau pentru cresterea si inmultirea acestora in  stare de captivitate .
+
+Soimarii tin de regula si din proprie convingere doar doua pasari de prada , acest lucru ar trebui sa fie valabil indiferent daca aceste pasari sint specii indigene sau straine . Nu exista nici un motiv plauzibil in urma caruia un soimar sa tina doi Soimi calatori dar in schimb  zece Soimi dunareni sau nordici!
