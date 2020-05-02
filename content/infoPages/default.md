@@ -1,44 +1,40 @@
 ---
 template: DefaultPage
-slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+slug: donatii
+title: Donatii
+featuredImage: 'https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/'
 meta:
-  description: test meta description
-  title: test meta title
+  description: Donatii către Asociatia Accipiter
+  title: Donatii către Asociatia Accipiter
 ---
+## Donații
 
-## This is the DefaultPage template
+Către: Asociatia Accipiter
 
-Paragraphs are separated by a blank line.
+Cont RON : RO94UGBI0000372002184RON  Deschis la GARANTI BANK
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+Cod de identificare fiscală CIF: 25938711
 
-### Unordered lists:
+Puteţi preciza către ce proiect aţi dori să fie folosiţi banii dumenavoastră:
 
-- this one
-- that one
-- the other one
+1. Centru rebilitare pentru rapitoare
+2. Cercetare stiintifica
+3. Medicina specifica.
 
-### Ordered lists:
+Va garantăm transparenţă şi în funcţie de dorinţa voastră putem face public date despre donator.
 
-1.  first item
-1.  second item
-1.  third item
+#### Redirecționare 2%
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+De asemenea, puteţi redirecţiona 2% din impozitul pe venit către fundaţia noastră. Aici găsiţi formularul pe care trebuie să-l completaţi, cu datele noastre precompletate:
 
-# Heading 1
+### Formularul 230 Asociatia Peregrinus
 
-## Heading 2
+### Instrucțiuni:
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+1. Salvați pe calculator documentul de mai sus cu click dreapta, “Save link as…”.
+2. Deschideți documentul salvat cu programul Adobe Reader. Dacă îl deschideți direct în browser vă poate apărea eroarea “If this message is not eventually replaced by the proper contents of the document, your PDF viewer may not be able to display this type of document.”
+3. Completați datele personale în secțiunea I. Nu este nevoie să completați nimic altceva.
+4. Apăsați butonul \[Validare].
+5. Pentru a tipări formularul, apăsați butonul \[Listare]. Tipăriți două exemplare.
+6. Semnați formularele tipărite în secțiunea “Semnătura contribuabil”.
+7. Trimiteți prin poștă sau depuneți direct formularele către sediul ANAF de care aparțineți
