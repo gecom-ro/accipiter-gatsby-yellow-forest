@@ -60,11 +60,11 @@ section2: |-
   ## Asociatia Accipiter
 
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
+  src="https://www.youtube.com/embed/9WfUw51PJzw" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
-videoTitle: 'Also background videos, with poster image & title overlay.'
+videoTitle: Asociatia Accipiter România
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -75,15 +75,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: Lanner
+    image: 'https://ucarecdn.com/b2c3a38f-e786-4f8a-bb4f-e8160fc3d252/'
+    title: Lanner
+  - alt: Accippiter stays
+    image: 'https://ucarecdn.com/989f2ad2-aadb-4094-ab00-baa3b11ba792/'
+    title: Accippiter stays
+  - alt: Accipiter flies
+    image: 'https://ucarecdn.com/2fc3f4a6-c502-4b8d-92a5-09805ac90734/'
+    title: Accipiter flies
 meta:
   description: Despre Asociatia Accipiter
   title: Despre noi
