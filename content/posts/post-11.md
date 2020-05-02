@@ -1,8 +1,8 @@
 ---
 template: SinglePost
 title: Istoria soimaritului
-status: Published
-date: '2018-05-25'
+status: Featured
+date: '2019-04-30'
 featuredImage: 'https://ucarecdn.com/d95222e0-084d-4efa-af04-2f50a15c6554/'
 excerpt: >-
   Pentru o redare cit mai amanuntita a istoriei soimaritului din fostele tari
