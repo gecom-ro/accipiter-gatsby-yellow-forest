@@ -1,16 +1,26 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Asociatia Accipiter
+featuredImage: 'https://ucarecdn.com/17a22cef-3803-4331-ac4e-69c834c7a898/'
+subtitle: Soimarit si pasari de prada
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Asociatia Accipiter - soimarit si pasari de prada. Centru reabilitare pentru
+    rapitoare, cercetare stiintifica, medicina specifica
+  title: Asociatia Accipiter - soimarit si pasari de prada
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+   Suntem un grup de pasionati ai naturii si indeosebi ai pasarilor de prada.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+   Dorim sa punem bazele soimaritului la noi in tara, ca o continuare a unei multiseculare traditii ale acestei activitati cinegetice si arte in acelasi timp, care a existat si a fost pusa la loc de cinste de catre stramosii nostri, si care in ziua de azi, cu ritmul ei alert, cu indepartarea omului de natura, cu exagerata tehnologizare, a ramas ca o oaza de autentice trairi care reuseste sa faca legatura peste timpuri intre generatia actuala care suntem si stramosii din vremuri demult apuse.
+
+   Dorim sa intindem o mana, prin intermediul acestei asociatii, tuturor acelora care doresc in primul rind sa puna umarul la salvarea a ceea ce mai avem frumos in aceasta tara, si sa ne ajute in aceasta stradanie a noastra, si in lupta inegala pe care o ducem, intelegind adevaratul nostru scop.
+
+# Asociatia Accipiter
+
+## Soimarit si pasari de prada
+
+Centru de reabilitare pentru rapitoare, cercetare stiintifica, medicina specifica
 
 # Features
 
@@ -26,5 +36,3 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 ## Get started
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
