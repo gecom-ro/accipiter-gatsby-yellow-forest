@@ -69,7 +69,7 @@ export class Navigation extends Component {
                 Activități și reabilitare
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
-                  Asociația Accipiter
+                  Accipiter
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
