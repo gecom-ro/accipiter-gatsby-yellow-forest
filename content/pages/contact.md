@@ -10,7 +10,7 @@ email: contact@mdp-vet.ro
 locations:
   - lat: '44.411551'
     lng: '26.174174'
-    mapLink: 'https://goo.gl/maps/fdRj1EuJnuCtQ8NN7'
+    mapLink: 'https://goo.gl/maps/5Tt9X7Nz95desxwc8'
 meta:
   description: Asociatia Accipiter - Contact
   title: Asociatia Accipiter - Contact
