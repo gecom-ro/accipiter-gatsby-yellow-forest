@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: donatii
 title: Donatii
-featuredImage: 'https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/'
+featuredImage: 'https://ucarecdn.com/e5367da9-0eab-49e1-ae3a-a30cf0fa3b22/'
 meta:
   description: Donatii către Asociatia Accipiter
   title: Donatii către Asociatia Accipiter
@@ -23,11 +23,11 @@ Puteţi preciza către ce proiect aţi dori să fie folosiţi banii dumenavoastr
 
 Va garantăm transparenţa şi, în funcţie de dorinţa voastră, putem face public date despre donator.
 
-#### Redirecționare 2%
+### Redirecționare 2%
 
 De asemenea, puteţi redirecţiona 2% din impozitul pe venit către fundaţia noastră. Aici găsiţi formularul pe care trebuie să-l completaţi, cu datele noastre precompletate:
 
-### Formularul 230 Asociatia Peregrinus
+### [Formularul 230 Asociatia Peregrinus](http://www.asociatiaperegrinus.ro/test/wp-content/uploads/2017/04/cerere_230_2017-COMPLETATA-1.pdf)
 
 ### Instrucțiuni:
 
