@@ -11,7 +11,7 @@ excerpt: >-
   din aceasta lucrare , cu titlul “ Vinatoare cu pasari rapitoare “ – Un
   interesant capitol din istoria vinatorii in tara noastra.
 categories:
-  - category: News
+  - category: Activități
 meta:
   canonicalLink: ''
   description: Istoria Soimaritului
