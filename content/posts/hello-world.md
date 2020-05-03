@@ -12,7 +12,7 @@ excerpt: >-
   Pentru ele am strabatut 1.000 de kilometri prin praful rosu al Iberiei. Intr-o
   singura zi…
 categories:
-  - category: News
+  - category: Activități
 meta:
   canonicalLink: ''
   description: >-
