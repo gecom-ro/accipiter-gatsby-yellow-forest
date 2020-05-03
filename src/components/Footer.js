@@ -6,7 +6,7 @@ export default () => (
   <div>
     <h2 className="taCenter">
       Follow us{' '}
-      <a href="https://instagram.com/chirana.paul/">@chirana.paul</a>
+      <a href="https://instagram.com/chirana.paul/" target="_blank">@chirana.paul</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
@@ -14,7 +14,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Web development by{' '}
-          <a href="https://www.promovis.ro/">Promovis</a>.
+          <a href="https://www.promovis.ro/" target="_blank">Promovis</a>.
         </span>
       </div>
     </footer>
