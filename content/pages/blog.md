@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Noutăți
+featuredImage: 'https://ucarecdn.com/786c139b-3208-48af-8b87-cb4e7d955fb5/'
+subtitle: Articole de informare și promovare
 meta:
   description: This is a meta description.
   title: Blog Page
 ---
+
