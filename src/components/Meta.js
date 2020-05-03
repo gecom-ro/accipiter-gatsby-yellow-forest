@@ -77,10 +77,6 @@ export default class Meta extends Component {
             `}
           </script>
         )}
-
-        {cookieBot && (
-          <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="090d0f95-130b-45ae-b5ce-e7fb838b9572" data-blockingmode="auto" type="text/javascript"></script>
-        )}
       </Helmet>
     )
   }
