@@ -4,7 +4,7 @@ slug: contact
 title: Asociația Accipiter
 featuredImage: 'https://ucarecdn.com/2ea51708-a6fb-4cf6-a00d-6168c0bf1636/'
 subtitle: Contact
-address: 'Strada Armeniș nr.2, Sector 3, București'
+address: 'Strada Armeniș nr.2, Sector 3, București, Romania'
 phone: 0374.91.99.99
 email: contact@mdp-vet.ro
 locations:
