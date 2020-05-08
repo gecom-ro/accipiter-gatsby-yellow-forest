@@ -5,9 +5,7 @@ title: Asociatia Accipiter
 featuredImage: 'https://ucarecdn.com/40ab9a07-b9e8-45b2-845a-e21db04f35bc/'
 subtitle: Soimarit si reabilitare pasari de prada
 meta:
-  description: >-
-    Asociatia Accipiter - soimarit si pasari de prada. Centru reabilitare pentru
-    rapitoare, cercetare stiintifica, medicina specifica
+  description: ''
   title: Asociatia Accipiter - soimarit si pasari de prada
 ---
 # Asociatia Accipiter
