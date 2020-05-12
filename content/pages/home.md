@@ -2,13 +2,11 @@
 template: HomePage
 slug: ''
 title: Asociatia Accipiter
-featuredImage: 'https://ucarecdn.com/17a22cef-3803-4331-ac4e-69c834c7a898/'
-subtitle: Soimarit si pasari de prada
+featuredImage: 'https://ucarecdn.com/40ab9a07-b9e8-45b2-845a-e21db04f35bc/'
+subtitle: Soimarit si reabilitare pasari de prada
 meta:
-  description: >-
-    Asociatia Accipiter - soimarit si pasari de prada. Centru reabilitare pentru
-    rapitoare, cercetare stiintifica, medicina specifica
-  title: Asociatia Accipiter - soimarit si pasari de prada
+  description: ''
+  title: ''
 ---
 # Asociatia Accipiter
    Suntem un grup de pasionati ai naturii si indeosebi ai pasarilor de prada.
